@@ -1,4 +1,4 @@
-The request files are too big for GitHub free membership.
+The 311-request files are too big for GitHub free membership.
 
 For the code to work download the files below from https://donnees.montreal.ca/dataset/requete-311 and follow the naming convension in .pyjb
 
